@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Nishad</h1>
-<h3 align="center">MACHINE LEARNING | DEVELOPER</h3>
+<h3 align="center">MACHINE LEARNING | DEVELOPMENT</h3>
 <h3>I am a student at Vellore Institute of Technology, Chennai. Currenly pursuing B.Tech in Computer Science with a
     Specialization in Cyber Physcical Systems</h3>
 
